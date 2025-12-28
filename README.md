@@ -7,5 +7,8 @@ A minimal and efficient task management app built with JavaScript. Easily add, r
 - ✅ Mark tasks as completed  
 - 📱 Responsive and user-friendly design  
 
-## Technologies Used  
-- HTML, CSS, JavaScript 
+## 🛠️ Technologies Used  
+- **HTML5** – For semantic and accessible page structure  
+- **CSS3** – For styling, layout, and responsive design  
+- **JavaScript (ES6+)** – For dynamic functionality, DOM manipulation, and task state management  
+
